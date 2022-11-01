@@ -3,8 +3,7 @@ Thank you for visiting my profile. My name is Cihan Alperen Bosnali and I am sec
 
 🏠 I am currently living in Vancouver, BC, Canada.
 
-📫 How to reach me: cihanbosnali@gmail.com
-
-## Social Media
+## 📫 How to reach me
+[![](https://img.shields.io/badge/Email-cihanbosnali@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=darkred)](mailto:cihanbosnali@gmail.com)
 [![](https://img.shields.io/badge/Linkedin-cihanbosnali-informational?style=flat&logo=linkedin&logoColor=white&color=darkgreen)](https://www.linkedin.com/in/cihanbosnali/)
 [![](https://img.shields.io/badge/Twitter-@cihanbosnali-informational?style=flat&logo=twitter&logoColor=white&color=blue)](https://twitter.com/CihanBosnali/)
