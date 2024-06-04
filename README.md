@@ -1,5 +1,5 @@
 # Hi there 👋
-Thank you for visiting my profile. My name is Cihan Alperen Bosnali and I am third-year computer engineering student at The University of British Columbia. I love building robots, programming autonomous vehicles and developing web and mobile applications.
+Thank you for visiting my profile. My name is Cihan Alperen Bosnali and I am fourth-year computer engineering student at The University of British Columbia. I love building robots, programming autonomous vehicles and developing web and mobile applications.
 
 🏠 I am currently living in Vancouver, BC, Canada.
 
